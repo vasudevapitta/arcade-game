@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    /*margin-top: -50px;*/
+}
+
+/* Result dialog which appears at the end of the game */
+#result {
+	width: 400px;
+	height: 400px;
+	left: 35.5%;
+	top: 20%;
+	background-color: #fff;
+	opacity: 0.9;
+	position: fixed;
+}
+
+/*
+.info {
+	transform: translateY(50px);
+}
+*/
+
+/* Result dialog initially set to be hidden */
+.hide {
+	display: none;
+}
