@@ -53,6 +53,7 @@ class Character {
     }
 }
 
+
 /* Gem class is the Subclass which extends from the Superclass called Character 
 This Gem class is currently not in use, I will use it later on when I want to add gems to my game and let the player collect them */
 class Gem extends Character {
@@ -68,6 +69,7 @@ class Gem extends Character {
         super.render();
     }
 }
+
 
 /* Enemy class is the Subclass which extends from Character */
 class Enemy extends Character {
@@ -90,6 +92,7 @@ class Enemy extends Character {
         super.render();
     }
 }
+
 
 /* Player class is the Subclass which extends from Character */
 class Player extends Character {
