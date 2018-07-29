@@ -17,7 +17,7 @@ I made sure the code is formatted with consistent, logical, and easy-to-read for
 Dependencies
 None at this time. Coded using Vanilla JS ES6 features.
 
-![Arcade Game Preview](preview.jpg)
+![Game Preview](images/preview.jpg?raw=true "Arcade Game Project")
 
 
 
