@@ -91,7 +91,7 @@ var Engine = (function(global) {
      * render methods.
      */
 
-     function checkCollisions(){
+    function checkCollisions(){
         allEnemies.forEach(enemy => {
             if(enemy.checkCollisions(player) || player.checkCollisions(enemy)){
                 player.y = 5;
